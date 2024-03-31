@@ -112,3 +112,13 @@
         // }
         // console.log(primeNumber(5));
         // console.log(primeNumber(6));
+
+
+// 3- Fibonacci  -------------
+       
+//        function fiboCalc(n){
+//         if(n>=0 && n<=1){
+//                 return n;
+//         } return fiboCalc(n-1) + fiboCalc(n-2);
+//        }
+//        console.log(fiboCalc(18));
