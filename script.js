@@ -103,3 +103,12 @@
         //         }  return number * fact(number-1);
         // }
         // console.log(fact(3));
+
+// 2 - Prime Number Check -----------
+        // function primeNumber(number){
+        //         if(number % 2 === 0){
+        //                 return "this number is prime";
+        //         }else return "this number is not prime"
+        // }
+        // console.log(primeNumber(5));
+        // console.log(primeNumber(6));
